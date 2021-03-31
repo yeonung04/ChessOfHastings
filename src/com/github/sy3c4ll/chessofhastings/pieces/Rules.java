@@ -1,4 +1,4 @@
-package com.github.sy3c4ll.ChessOfHastings.pieces;
+package com.github.sy3c4ll.chessofhastings.pieces;
 public interface Rules{
 	final int[]
 			NCdx={-2,-1,0,0,0,0,0,1,2},NCdy={0,0,-2,-1,0,1,2,0,0},
