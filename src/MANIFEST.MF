@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.github.sy3c4ll.chessofhastings.ChessOfHastings
+Class-Path: .
+

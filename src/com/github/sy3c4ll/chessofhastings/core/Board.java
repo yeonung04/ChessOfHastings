@@ -1,7 +1,7 @@
-package com.github.sy3c4ll.ChessOfHastings.core;
-import com.github.sy3c4ll.ChessOfHastings.pieces.Piece;
-import com.github.sy3c4ll.ChessOfHastings.pieces.PieceType;
-import com.github.sy3c4ll.ChessOfHastings.pieces.Side;
+package com.github.sy3c4ll.chessofhastings.core;
+import com.github.sy3c4ll.chessofhastings.pieces.Piece;
+import com.github.sy3c4ll.chessofhastings.pieces.PieceType;
+import com.github.sy3c4ll.chessofhastings.pieces.Side;
 import javax.swing.JButton;
 import javax.swing.JLabel;
 import javax.swing.JPanel;

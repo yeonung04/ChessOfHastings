@@ -1,9 +1,9 @@
-package com.github.sy3c4ll.ChessOfHastings;
-import com.github.sy3c4ll.ChessOfHastings.core.Board;
+package com.github.sy3c4ll.chessofhastings;
+import com.github.sy3c4ll.chessofhastings.core.Board;
 import javax.swing.JFrame;
 import javax.swing.WindowConstants;
 import java.awt.Toolkit;
-public class Main{
+public class ChessOfHastings{
 	public static void main(String[] args){
 		JFrame f=new JFrame("Chess of Hastings");new Board(f.getContentPane());
 		f.pack();f.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);f.setVisible(true);
